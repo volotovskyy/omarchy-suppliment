@@ -1,0 +1,32 @@
+# IDEs
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.directory
+.Apple*
+.LSOverride
+
+# Environment
+!.envrc
+!.env.*.example
+!.env.*.tpl
+!.env.1p
+.env*
+
